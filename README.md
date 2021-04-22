@@ -25,6 +25,8 @@ Reddit - https://www.reddit.com/user/mhm271/
 
 Discord - mhm271#3065
 
+LinkedIn - 
+
 Blog - 
 
 Cisco Learning Forums - mhm271 (https://learningnetwork.cisco.com/s/profile/0053i0000038k5q)
