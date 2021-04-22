@@ -27,7 +27,7 @@ Discord - mhm271#3065
 
 LinkedIn - 
 
-Blog - 
+Blog - https://mhm271.wordpress.com/
 
 Cisco Learning Forums - mhm271 (https://learningnetwork.cisco.com/s/profile/0053i0000038k5q)
 
