@@ -25,7 +25,7 @@ Reddit - https://www.reddit.com/user/mhm271/
 
 Discord - mhm271#3065
 
-LinkedIn - 
+LinkedIn - https://www.linkedin.com/in/mohammed-hassan-mahmood-02b85b156
 
 Blog - https://mhm271.wordpress.com/
 
