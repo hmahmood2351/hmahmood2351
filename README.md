@@ -6,7 +6,7 @@ Hey. I'm hmahmood2351/mhm271 (more known by the latter than the former). Based i
 
 Interested in technology as a whole. In particular and currently, concerning the fields of **Networking**, **Automation**, and the **Cloud**. However I can say that I do retain an interest for Sysadmin work, Linux, Security, Wireless, and Design (might as well list the whole protocol stack while I'm at it, right?).
 
-Currently studying for: the CCNA, and playing around with the Azure platform and automation tools in my spare time.
+Currently studying for: the CCNP, and playing around with the Azure platform and automation tools in my spare time.
 
 Not working in IT (yet!). Looking to break into the industry.
 
