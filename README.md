@@ -8,7 +8,7 @@ Interested in technology as a whole. In particular and currently, concerning the
 
 Currently studying for: the CCNP, and playing around with the Azure platform and automation tools in my spare time.
 
-Not working in IT (yet!). Looking to break into the industry.
+Not working completely in IT (yet!). Looking to break into the industry.
 
 This GitHub aims to be a public display of my research and things that I do whilst looking into the three topics listed above. However, if I do come across any ideas that pique my interest relating to areas such as Security or Design. I'll be sure to post it here, too. 
 
